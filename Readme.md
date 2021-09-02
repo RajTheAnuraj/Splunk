@@ -101,6 +101,7 @@ index=airbnb
 This actually printed a table in statistics tab with columns as Property Types and Rows as Neighbourhoods and the intersecting cells as the count of each intersection
 
 |Neighbourhood|Apartments|Boat|
+|---|---|---|
 |Brooklyn|1000|200|
 |Manhattan|1001|20|
 
